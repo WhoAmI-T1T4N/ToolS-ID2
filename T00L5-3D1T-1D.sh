@@ -11,8 +11,8 @@ yellow='\033[33;1m'
 
 echo $yellow    "@@@@@@@@@@@@@@@@@@@"
 echo $yeloow "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-echo $yellow "@@@@ echo $black "000" echo $yellow "@@@@@@@@@@" echo $black "00" echo $yellow "@@@@"
-echo $yellow "@@@@ echo $black "000" echo $yellow "@@@@@@@@@@" echo $black "00" "@@@@"
+echo $yellow "@@@@" echo $black "000" echo $yellow "@@@@@@@@@@" echo $black "00" echo $yellow "@@@@"
+echo $yellow "@@@@" echo $black "000" echo $yellow "@@@@@@@@@@" echo $black "00" "@@@@"
 echo $yellow "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 echo $yellow "@@@@@@@@@@@@@@@@@@@@@@@@@@@"
 echo $yellow "@" echo $black "=========================" echo $yellow "@"
