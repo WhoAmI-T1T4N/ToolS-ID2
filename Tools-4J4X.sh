@@ -10,9 +10,12 @@ black='\033[30;1m'
 yellow='\033[33;1m'
 
 # registrasi dulu
-echo $white "Utamakan Untuk REGISTRASI Dan PASSnya ADA DI CHANNEL T1T4N TZY"
-      read -p "UsernameNya :" nm ;
-      read -p "PassWordnya Apa : " pass ;
+echo $green "#############################"
+echo $green "### https://bit.ly/3xisQB0 ##" 
+echo $green "#############################"
+echo $red "Passwordnya, Berada Di Link Tersebut"
+echo $red "Utamakan Subscribe" $black "T1T4N TZY"
+   read -p "PassWordnya Dulu Sobb : " pass
       sleep 0.1
 
 # passwordnya
@@ -25,7 +28,7 @@ if [ $pass = "KejuJoget" ]
    sleep 0.1
    else
    echo "COBA LAGIII"
-   echo "CEK YOUTUBE T1T4N TZY"
+   echo "CEK DI LINKNYA"
    sleep 3
    sh Tools-4J4X.sh
    sleep 0.1
