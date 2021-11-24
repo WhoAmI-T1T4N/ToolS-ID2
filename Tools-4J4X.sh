@@ -87,8 +87,8 @@ then
 fi
 if [ $pepek = 00 ]
 then
-echo $green "CERITANYA KAPAL HEHE"
-echo $green "MAAF KALO, KEK MEME"
+echo $green "CERITANYA KURA-KURA"
+echo $green "MAAF KALO, KEK SAMPAH"
 echo $yellow "444444444444  00000000000        6666666666666"
 echo $yellow 444444444444   00000000000      6666666666666666666"
 echo $yellow "4444444                        6666           6666     777777777777"
