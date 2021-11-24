@@ -23,7 +23,7 @@ if [ $pass = "KejuJoget" ]
    then
    echo
    echo $red "######################"
-   echo $red "##"$yellow PASSWORD SUCCESS"$red "##"
+   echo $red "##"$yellow "PASSWORD SUCCESS"$red "##"
    echo $red "######################"
    sleep 0.1
    else
