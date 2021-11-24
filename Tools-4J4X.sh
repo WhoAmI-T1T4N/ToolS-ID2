@@ -11,10 +11,10 @@ yellow='\033[33;1m'
 
 # registrasi dulu
 echo $green "#############################"
-echo $green "### https://bit.ly/3xisQB0 ##" 
+echo $green "##  https://bit.ly/3xisQB0 ##" 
 echo $green "#############################"
 echo $red "Passwordnya, Berada Di Link Tersebut"
-echo $red "Utamakan Subscribe" $black "T1T4N TZY"
+echo $red "Utamakan Subscribe" $yellow "T1T4N TZY"
    read -p "PassWordnya Dulu Sobb : " pass
       sleep 0.1
 
@@ -22,12 +22,12 @@ echo $red "Utamakan Subscribe" $black "T1T4N TZY"
 if [ $pass = "KejuJoget" ]
    then
    echo
-   echo $red ######################
-   echo $red ## PASSWORD SUCCESS ##
-   echo $red ######################
+   echo $red "######################"
+   echo $red "##"$yellow PASSWORD SUCCESS "$red"##"
+   echo $red "######################"
    sleep 0.1
    else
-   echo "COBA LAGIII"
+   echo "Jangan Lupa Subscribe Ya.."
    echo "CEK DI LINKNYA"
    sleep 3
    sh Tools-4J4X.sh
